@@ -2,13 +2,11 @@
     
 public class MenuPanel : BasePanel
 {   
-    public BasePanel option;
     public BasePanel characterSelecion;
 
     public void Play()
     {
-        characterSelecion.Show();
-        option.Hide();
+        actions.Add(characterSelecion.Show);
         this.Hide();
     }
 
