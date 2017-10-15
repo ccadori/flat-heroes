@@ -41,3 +41,15 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Shadow
+    uniqueID: 2930925521
+    locked: 0
+  - name: Tile
+    uniqueID: 2903478973
+    locked: 0
+  - name: Decoration
+    uniqueID: 2057293437
+    locked: 0
+  - name: UI
+    uniqueID: 3083729445
+    locked: 0
